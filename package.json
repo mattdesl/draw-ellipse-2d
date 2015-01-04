@@ -1,0 +1,42 @@
+{
+  "name": "draw-ellipse-2d",
+  "version": "1.0.0",
+  "description": "draws an ellipse with bezier curves",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "draw",
+    "canvas",
+    "context",
+    "2d",
+    "ellipse",
+    "oval",
+    "circle",
+    "render",
+    "line",
+    "path",
+    "elliptical",
+    "ellipses",
+    "elipse",
+    "elip",
+    "ovals"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/draw-ellipse-2d.git"
+  },
+  "homepage": "https://github.com/mattdesl/draw-ellipse-2d",
+  "bugs": {
+    "url": "https://github.com/mattdesl/draw-ellipse-2d/issues"
+  }
+}
